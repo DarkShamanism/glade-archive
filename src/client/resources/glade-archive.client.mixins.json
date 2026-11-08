@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.darkshamanism.lotcscholar.integration.minecraft",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["BookEditScreenHooks", "BookScreenHooks", "ScholarSpreadBookScreenHooks"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
